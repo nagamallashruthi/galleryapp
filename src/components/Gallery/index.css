@@ -1,0 +1,27 @@
+/* Write your code here. */
+.img {
+  height: 300px;
+  width: 50%;
+}
+.container {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+
+  margin: 20px;
+}
+.head {
+  font-family: 'roboto';
+  font-size: 20px;
+  color: #1e293b;
+}
+.para {
+  font-family: 'roboto';
+  font-size: 12px;
+  color: #64748b;
+  font-weight: bold;
+}
+.ul {
+  display: flex;
+  list-style-type: none;
+}
